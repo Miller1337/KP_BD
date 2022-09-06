@@ -1,0 +1,31 @@
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\KP BD.exe
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\KP BD.deps.json
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\KP BD.runtimeconfig.json
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\KP BD.runtimeconfig.dev.json
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\KP BD.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\KP BD.pdb
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP_BD.Form1.resources
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP_BD.Properties.Resources.resources
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.csproj.GenerateResource.cache
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.AssemblyInfoInputs.cache
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.AssemblyInfo.cs
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.csproj.CoreCompileInputs.cache
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.dll
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.pdb
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.genruntimeconfig.cache
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.csprojAssemblyReference.cache
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP_BD.Form2.resources
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\MySql.Data.xml
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP BD.csproj.CopyComplete
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP_BD.Form3.resources
+D:\Лабы\БД\KP BD\KP BD\bin\Debug\netcoreapp3.1\ru\KP BD.resources.dll
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\KP_BD.Form3.ru.resources
+D:\Лабы\БД\KP BD\KP BD\obj\Debug\netcoreapp3.1\ru\KP BD.resources.dll
